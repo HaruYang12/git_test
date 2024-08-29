@@ -52,6 +52,10 @@ table {
 	background: #354b3b;
 	border: 1px solid #000;
 }
+h1{
+	color: #37523d;
+	font-size: 24px;
+}
 ul{
 	display: flex;
 	justify-content: space-between;
